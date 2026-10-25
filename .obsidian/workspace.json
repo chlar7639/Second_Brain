@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "e4c77f1632b33fa3",
+    "type": "split",
+    "children": [
+      {
+        "id": "86a221608c024049",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "603afe6194442bbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "second-brain/wiki/projects/td-uit-website.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "td-uit-website"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "04be99e839a16a31",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce786e9b323a5ccd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ffaae9d5e4a8e4f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1670d9a4bdfe5a65",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "128053213e864be5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8b2cebd26cd51f11",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c94af8da1e8767a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a896209df1d17684",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "d2f0c40a348f207a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "cbcd260acddb848d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "42ec59574262c84c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "149eafd350bd53a9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "fcba7ff277400d44",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "603afe6194442bbe",
+  "lastOpenFiles": [
+    "second-brain/wiki/concepts/ssh.md",
+    "second-brain/wiki/concepts/source-running-sqlite-queries-from-a-file.md",
+    "second-brain/wiki/concepts/network-ports.md",
+    "second-brain/wiki/concepts/pipenv.md",
+    "second-brain/wiki/concepts/README.md",
+    "second-brain/wiki/concepts/docker.md",
+    "second-brain/wiki/concepts/apt.md",
+    "second-brain/wiki/concepts/dns-lookup.md",
+    "second-brain/wiki/concepts/appleboy-ssh-action.md",
+    "second-brain/wiki/projects/td-uit-website.md",
+    "second-brain/wiki/projects/inf-2204-systems-experiment-project.md",
+    "Untitled.canvas",
+    "second-brain/raw/claude-exports/projects/2026-10-24-how-to-use-claude.md",
+    "second-brain/raw/claude-exports/2026-08-13-pipfile-lock-out-of-date-docker-build-error.md",
+    "second-brain/raw/claude-exports/2026-08-24-computer-systems-project-ideas-with-measurable-performance.md",
+    "second-brain/raw/claude-exports/2026-08-26-finding-secret-host-ip-on-ssh-server.md",
+    "second-brain/raw/claude-exports/2026-08-26-systems-experiment-project-brainstorming.md",
+    "second-brain/raw/claude-exports/2026-09-13-string-and-bytes-concatenation-error.md",
+    "second-brain/raw/claude-exports/2026-10-08-understanding-idempotence.md",
+    "second-brain/raw/claude-exports/2026-10-19-f1-score-in-sciencxlab.md",
+    "second-brain/raw/claude-exports/2026-10-20-bias-in-neural-networks.md",
+    "second-brain/raw/claude-exports/2026-10-22-sequence-diagram-for-draw-io.md",
+    "second-brain/raw/claude-exports/README.md",
+    "second-brain/CLAUDE.md",
+    "second-brain/wiki/log.md",
+    "second-brain/wiki/index.md",
+    "second-brain/README.md",
+    "second-brain/CLAUDE.md.tmp.39431.956091f0fe02",
+    "second-brain/CLAUDE.md.tmp.39431.1ce87c6b9065"
+  ]
+}
