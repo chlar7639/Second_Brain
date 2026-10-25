@@ -159,6 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "second-brain/wiki/projects/td-uit-website.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -196,7 +197,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "603afe6194442bbe",
+  "active": "fcba7ff277400d44",
   "lastOpenFiles": [
     "second-brain/wiki/concepts/ssh.md",
     "second-brain/wiki/concepts/source-running-sqlite-queries-from-a-file.md",
