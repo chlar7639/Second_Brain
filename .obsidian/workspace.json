@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "second-brain/wiki/concepts/source-a3-report-1600-neural-network.md",
+                "file": "second-brain/wiki/concepts/source-a3-report-veabr1893.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "source-a3-report-1600-neural-network"
+              "title": "source-a3-report-veabr1893"
             }
           }
         ]
@@ -200,10 +200,13 @@
   "active": "603afe6194442bbe",
   "lastOpenFiles": [
     "second-brain/wiki/concepts/inf-1600-assignment-3-report-comparison.md",
+    "second-brain/wiki/concepts/linear-separability.md",
     "second-brain/wiki/concepts/source-a3-report-1600-neural-network.md",
+    "second-brain/wiki/concepts/source-a3-report-eksperiment-arbeidskrav.md",
+    "second-brain/wiki/concepts/width-vs-depth-in-neural-networks.md",
+    "second-brain/wiki/log.md",
     "second-brain/wiki/concepts/scienxlab-playground.md",
     "second-brain/wiki/concepts/README.md",
-    "second-brain/wiki/concepts/linear-separability.md",
     "second-brain/wiki/concepts/ssh.md",
     "second-brain/wiki/concepts/source-running-sqlite-queries-from-a-file.md",
     "second-brain/wiki/concepts/network-ports.md",
@@ -223,9 +226,6 @@
     "second-brain/raw/claude-exports/2026-09-13-string-and-bytes-concatenation-error.md",
     "second-brain/raw/claude-exports/2026-10-08-understanding-idempotence.md",
     "second-brain/raw/claude-exports/2026-10-19-f1-score-in-sciencxlab.md",
-    "second-brain/raw/claude-exports/2026-10-20-bias-in-neural-networks.md",
-    "second-brain/raw/claude-exports/2026-10-22-sequence-diagram-for-draw-io.md",
-    "second-brain/raw/claude-exports/README.md",
     "second-brain/CLAUDE.md.tmp.39431.956091f0fe02",
     "second-brain/CLAUDE.md.tmp.39431.1ce87c6b9065"
   ]
