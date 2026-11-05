@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "second-brain/wiki/concepts/source-a3-report-oppgave-3-tren.md",
+                "file": "second-brain/wiki/concepts/source-a3-report-rapport-nevralt-nettverk.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "source-a3-report-oppgave-3-tren"
+              "title": "source-a3-report-rapport-nevralt-nettverk"
             }
           }
         ],
@@ -216,6 +216,8 @@
   "active": "b09b035313450d15",
   "lastOpenFiles": [
     "second-brain/wiki/concepts/inf-1600-assignment-3-report-comparison.md",
+    "second-brain/wiki/concepts/source-a3-report-masan7507.md",
+    "second-brain/wiki/concepts/source-a3-report-1600-neural-network.md",
     "second-brain/wiki/concepts/source-a3-report-oppgave-3-tren.md",
     "second-brain/wiki/concepts/source-a3-report-obli-3.md",
     "second-brain/wiki/concepts/linear-separability.md",
@@ -225,7 +227,6 @@
     "second-brain/wiki/concepts/source-a3-report-sibal1613.md",
     "second-brain/wiki/concepts/source-a3-report-rapport-nevrale-nettverk.md",
     "second-brain/wiki/concepts/source-a3-report-veabr1893.md",
-    "second-brain/wiki/concepts/source-a3-report-1600-neural-network.md",
     "second-brain/wiki/concepts/width-vs-depth-in-neural-networks.md",
     "second-brain/wiki/log.md",
     "second-brain/wiki/concepts/scienxlab-playground.md",
@@ -241,7 +242,6 @@
     "second-brain/wiki/projects/td-uit-website.md",
     "second-brain/wiki/projects/inf-2204-systems-experiment-project.md",
     "Untitled.canvas",
-    "second-brain/raw/claude-exports/projects/2026-10-24-how-to-use-claude.md",
     "second-brain/CLAUDE.md.tmp.39431.956091f0fe02",
     "second-brain/CLAUDE.md.tmp.39431.1ce87c6b9065"
   ]
