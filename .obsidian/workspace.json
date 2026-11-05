@@ -27,7 +27,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "second-brain/wiki/concepts/source-a3-report-nevrale-nettverk.md",
+                "file": "second-brain/wiki/concepts/inf-1600-assignment-3-report-comparison.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "second-brain/wiki/concepts/source-a3-report-nevrale-nettverk.md",
+                "file": "second-brain/wiki/concepts/inf-1600-assignment-3-report-comparison.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "source-a3-report-nevrale-nettverk"
+              "title": "inf-1600-assignment-3-report-comparison"
             }
           }
         ],
@@ -215,8 +215,8 @@
   },
   "active": "b09b035313450d15",
   "lastOpenFiles": [
-    "second-brain/wiki/concepts/inf-1600-assignment-3-report-comparison.md",
     "second-brain/wiki/concepts/source-a3-report-nevrale-nettverk.md",
+    "second-brain/wiki/concepts/inf-1600-assignment-3-report-comparison.md",
     "second-brain/wiki/concepts/source-a3-report-hibjo8229.md",
     "second-brain/wiki/concepts/source-a3-report-sibal1613.md",
     "second-brain/wiki/concepts/source-a3-report-rapport-nevrale-nettverk.md",
