@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "second-brain/wiki/concepts/inf-1600-assignment-3-report-comparison.md",
+                "file": "second-brain/wiki/concepts/source-a3-report-oppgave-3-tren.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "inf-1600-assignment-3-report-comparison"
+              "title": "source-a3-report-oppgave-3-tren"
             }
           }
         ],
@@ -215,8 +215,9 @@
   },
   "active": "b09b035313450d15",
   "lastOpenFiles": [
-    "second-brain/wiki/concepts/source-a3-report-obli-3.md",
     "second-brain/wiki/concepts/inf-1600-assignment-3-report-comparison.md",
+    "second-brain/wiki/concepts/source-a3-report-oppgave-3-tren.md",
+    "second-brain/wiki/concepts/source-a3-report-obli-3.md",
     "second-brain/wiki/concepts/linear-separability.md",
     "second-brain/wiki/concepts/source-a3-report-eksperiment-arbeidskrav.md",
     "second-brain/wiki/concepts/source-a3-report-nevrale-nettverk.md",
@@ -241,7 +242,6 @@
     "second-brain/wiki/projects/inf-2204-systems-experiment-project.md",
     "Untitled.canvas",
     "second-brain/raw/claude-exports/projects/2026-10-24-how-to-use-claude.md",
-    "second-brain/raw/claude-exports/2026-08-13-pipfile-lock-out-of-date-docker-build-error.md",
     "second-brain/CLAUDE.md.tmp.39431.956091f0fe02",
     "second-brain/CLAUDE.md.tmp.39431.1ce87c6b9065"
   ]
