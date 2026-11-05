@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "second-brain/wiki/concepts/source-a3-report-veabr1893.md",
+                "file": "second-brain/wiki/concepts/source-a3-report-sibal1613.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "source-a3-report-veabr1893"
+              "title": "source-a3-report-sibal1613"
             }
           }
         ]
@@ -200,6 +200,8 @@
   "active": "603afe6194442bbe",
   "lastOpenFiles": [
     "second-brain/wiki/concepts/inf-1600-assignment-3-report-comparison.md",
+    "second-brain/wiki/concepts/source-a3-report-rapport-nevrale-nettverk.md",
+    "second-brain/wiki/concepts/source-a3-report-veabr1893.md",
     "second-brain/wiki/concepts/linear-separability.md",
     "second-brain/wiki/concepts/source-a3-report-1600-neural-network.md",
     "second-brain/wiki/concepts/source-a3-report-eksperiment-arbeidskrav.md",
@@ -224,8 +226,6 @@
     "second-brain/raw/claude-exports/2026-08-26-finding-secret-host-ip-on-ssh-server.md",
     "second-brain/raw/claude-exports/2026-08-26-systems-experiment-project-brainstorming.md",
     "second-brain/raw/claude-exports/2026-09-13-string-and-bytes-concatenation-error.md",
-    "second-brain/raw/claude-exports/2026-10-08-understanding-idempotence.md",
-    "second-brain/raw/claude-exports/2026-10-19-f1-score-in-sciencxlab.md",
     "second-brain/CLAUDE.md.tmp.39431.956091f0fe02",
     "second-brain/CLAUDE.md.tmp.39431.1ce87c6b9065"
   ]
